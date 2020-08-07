@@ -1,0 +1,49 @@
+Binary Search Tree Index:
+-------------------------
+ Grid	1
+ Jobs	4
+ The	1
+ We	2
+ When	3
+ a	1, 3, 3, 3
+ and	2
+ announces	4
+ are	4
+ arrive	1
+ arrives	4
+ assigned	2, 4, 6
+ at	2
+ be	2
+ can	2
+ capacity	4, 7
+ comprised	1
+ computing	1
+ consider	2
+ does	6
+ each	3
+ environment	1
+ exceed	7
+ is	1
+ it	4
+ its	4, 6, 7
+ jobs	2, 3, 6
+ memory	3, 4
+ not	7
+ of	1, 2, 3, 6, 6
+ problem	2
+ processor	3, 5
+ processors	1
+ requirement	3
+ requirements	6
+ scheduling	3
+ set	3
+ so	5
+ specific	3
+ sum	6
+ that	5
+ the	2, 5, 6, 6
+ times	2
+ to	2, 4
+ various	1, 2
+ which	1, 2
+ with	3

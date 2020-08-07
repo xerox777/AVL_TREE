@@ -1,0 +1,7 @@
+The Grid is a computing environment comprised of various processors which arrive 
+at various times and to which jobs can be assigned. We consider the problem of 
+scheduling a set of jobs, each with a specific memory requirement. When a processor 
+arrives, it announces its memory capacity. Jobs are assigned to
+the processor so that 
+the sum of the requirements of its assigned jobs does
+not exceed its capacity.
